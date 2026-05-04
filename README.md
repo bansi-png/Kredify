@@ -102,7 +102,7 @@ Without revealing:
 
 ---
 
-### 4. Lender Marketplace (Mockup)
+### 🔹 4. Lender Marketplace (Mockup)
 
 * Loan offers unlocked based on TrustScore tier
 * Shows real-world impact instantly
